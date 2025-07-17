@@ -1,12 +1,11 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+💡 React JS + Material UI + Tailwind CSS: potência total no front-end!
+Nos últimos dias tenho explorado uma stack que une produtividade, estilo e flexibilidade:
+ ⚛️ React JS para uma base sólida de componentes
+ 🎨 Material UI para uma interface moderna com base no Material Design
+ 💨 Tailwind CSS para controle total e rápido na personalização visual
+Combinar essas ferramentas permite o melhor dos dois mundos:
+Componentes prontos com MUI
+Estilização granular e utilitária com Tailwind
+Experiência fluida e consistente para o usuário
+🔧 Uma stack que me ajuda a entregar projetos mais rápidos, bonitos e responsivos!
+Além do mais, aproveitei o projeto para botar em prática e aperfeiçoar o uso do Hook UseState!
